@@ -1,3 +1,2 @@
 # flux-docs
-## Docker
-[Docker](./docker/README.md)
+- [Docker](./docker/README.md)
